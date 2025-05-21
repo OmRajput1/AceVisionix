@@ -1,4 +1,4 @@
-x<h1 align="center">Hi 👋, I'm Vision</h1>
+x<h1 align="center">Hi 👋, I'm Om!</h1>
 <h3 align="center">A small developer from India</h3>
 
 - 🔭 I’m currently working on **Project Razystic**
