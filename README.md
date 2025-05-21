@@ -5,7 +5,7 @@ x<h1 align="center">Hi 👋, I'm Om!</h1>
 
 - 🌱 I’m currently learning **Java, HTML, CSS, Python,**
 
-- 📫 How to reach me **acevision1x@gmail.com**
+- 📫 How to reach me **or.omrajput11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
