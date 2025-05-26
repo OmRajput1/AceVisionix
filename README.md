@@ -3,7 +3,7 @@ x<h1 align="center">Hi 👋, I'm Om!</h1>
 
 - 🔭 I’m currently working on **Project Razystic**
 
-- 🌱 I’m currently learning **Java, HTML, CSS, Python,**
+- 🌱 I’m currently learning **Java, C++ Python**
 
 - 📫 How to reach me **or.omrajput11@gmail.com**
 
